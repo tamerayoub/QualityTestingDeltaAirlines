@@ -1,0 +1,490 @@
+Date: Sun, 4 Dec 2022 18:36:03 +0000 (UTC)
+Message-ID: <124885534.151.1670178963964@b318a5227f6b>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_150_1783831116.1670178963963"
+
+------=_Part_150_1783831116.1670178963963
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Master Test Plan | Team 2, NAU.</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Master Test Plan | Team 2, NAU.</h1>
+    <div class=3D"Section1">
+        <h3 id=3D"MasterTestPlan|Team2,NAU.-Introduction"><strong>Introduct=
+ion&nbsp;</strong></h3>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-OurScope:"><u>Our Scope:</u>&nbsp;</h4>
+<p>The objective of this test is to validate the Flight Management System o=
+f Delta Air Lines that allows customers to <strong>Book a Flight</strong> w=
+hich includes the features of <u>searching flights, trip type, passengers, =
+seats, and purchase flight.</u> The project team and the test team will hav=
+e a high level of confidence in completing the test process so that the sys=
+tem will operate in accordance with user requirements and satisfy all busin=
+ess requirements. This test plan will cover the overview of the main featur=
+es, but each feature will have many other test cases we will perform from w=
+ithin. For this test plan, we will the top overview features within <strong=
+>Book Flight.</strong>&nbsp;</p>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-TestObjectives:"><u>Test Objectives:</u=
+>&nbsp;</h4>
+<p>a)&nbsp;&nbsp;&nbsp; Search Flight&nbsp;</p>
+<p>When searching for a flight, users will need to enter <u>destination and=
+ origin,&nbsp;dates of arrival and return,&nbsp;number of passengers, and r=
+ound trip or one-way</u>. A list of flights will appear where they will hav=
+e a choice to select which one best suits them.&nbsp;</p>
+<p>b)&nbsp;&nbsp;&nbsp; Select Trip Type&nbsp;</p>
+<p>When you find the flight that best suits you, you will continue to selec=
+t what <u>type of trip</u> you want, whether it's main, comfort, or first c=
+lass. After you select your trip type, you might have to select trip type a=
+gain for your returning flight if you have selected round trip.&nbsp;</p>
+<p>c)&nbsp;&nbsp;&nbsp; Page Overview of your Selected Flight&nbsp;</p>
+<p>When you are done selecting your trip type, you will then be prompted wi=
+th a page of your flights with the ability to <u>add seats,</u> <u>upgrade =
+your trip type,</u> and the ability to <u>buy a refundable flight plan</u> =
+or just purchase your flight right away&nbsp;</p>
+<p>d)&nbsp;&nbsp;&nbsp; Select Seats&nbsp;</p>
+<p>From the seat feature, you will have the ability to <u>select each seat<=
+/u> for each of the passengers flying and you can <u>add more passengers</u=
+> here as well. You will also have the ability to adjust your trip type her=
+e since your trip type depends on where you want to sit (for example. First=
+ class flyers sit upfront). Then, select your seat by clicking one of the s=
+eats on the user interface. You will then get prompted with the same option=
+s for the second flight if you selected round trip.&nbsp;</p>
+<p>e)&nbsp;&nbsp;&nbsp; Purchase Flight&nbsp;</p>
+<p>When you select to purchase your flight from the <u>Page Overview of you=
+r Selected Flight</u>, it adds a couple more features to the page. Now you =
+also can <u>add a payment method</u> and <u>passenger information</u> and <=
+u>contact info.</u> You will fill out the required information so you can c=
+ontinue to complete the transaction of purchasing. You can also <u>add trip=
+ protection</u> to protect your trip here. The ability to <u>add gift cards=
+</u> and <u>collect SkyMiles</u> is all listed under this feature as well.&=
+nbsp;</p>
+<p>f) Select Passengers&nbsp;</p>
+<p>Before you purchase your flight completely, you need&nbsp;to add your <u=
+>passenger information</u> on the <u>Purchase your Flight page.</u> &nbsp;<=
+/p>
+<hr>
+<p></p>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-Timelines/Schedule"><strong>Timelines/S=
+chedule&nbsp;</strong></h4>
+<p>For the project corresponding to Delta airlines. Given schedule is the t=
+imeline for the project and what we have done and planning to do:&nbsp;</p>
+<div class=3D"table-wrap">
+<table data-layout=3D"default" data-local-id=3D"90bff7e0-7f5b-4df0-bb6e-c40=
+ee1bd3b2c" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 340.0px;">
+<col style=3D"width: 340.0px;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd"><p><strong>Project timeline</strong></p></td>
+<td class=3D"confluenceTd"><p><strong>Date</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Contextual/ level 0 diagram&nbsp;visualizatio=
+n</p></td>
+<td class=3D"confluenceTd"><p>11/02/2022 (1 week)&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Level 0 diagram development. <br>Visualizatio=
+n of Level 1 diagram</p></td>
+<td class=3D"confluenceTd"><p>11/09/2022 (1 week)&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Level 1 diagram development.</p><p>Visualizat=
+ion of Level 2 diagram</p></td>
+<td class=3D"confluenceTd"><p>11/11/2022&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Data flow diagram Testing. (Level 0, Level 1,=
+ Level 2)</p></td>
+<td class=3D"confluenceTd"><p>11/20/2022&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Level 2 diagram development.</p></td>
+<td class=3D"confluenceTd"><p>11/25 /2022</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Test approach and planning finalization.</p><=
+/td>
+<td class=3D"confluenceTd"><p>11/21/2022&nbsp;</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Test Cases generation.</p></td>
+<td class=3D"confluenceTd"><p>11/23 /2022&nbsp;- 11/282022</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Database visualization and development</p></t=
+d>
+<td class=3D"confluenceTd"><p>11/29/2022&nbsp;- 12/02/2022</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<p></p>
+<p>&nbsp;<strong>Features to be Tested&nbsp;</strong></p>
+<p>Main Features to be Tested (Each feature will contain many sub-test case=
+s)&nbsp;</p>
+<p>a)&nbsp;&nbsp;&nbsp; <strong>Test across the devices.</strong> (Desktop,=
+ Smartphones, Tablets)&nbsp;&nbsp;</p>
+<p>b)&nbsp;&nbsp;&nbsp; <strong>Test across different browsers.</strong>&nb=
+sp;&nbsp;&nbsp;</p>
+<p>c)&nbsp;&nbsp;&nbsp; <strong>Testing Delta Flight Management System.&nbs=
+p;</strong>&nbsp;</p>
+<p>d)&nbsp;&nbsp;&nbsp;<strong> Sign up / log in.</strong>&nbsp;&nbsp;&nbsp=
+;</p>
+<p>e)&nbsp;&nbsp;&nbsp; <strong>Book a flight.</strong> (Our Scope)&nbsp;</=
+p>
+<p>f)&nbsp;&nbsp;&nbsp;&nbsp; <strong>Search for flights</strong>: enter de=
+stination and origin,&nbsp;dates of arrival and return,&nbsp;number of pass=
+engers, and a round-trip or one way&nbsp;</p>
+<p>g)&nbsp;&nbsp;&nbsp; <strong>Select trip type</strong>: select what type=
+ of trip you want, whether it's main, comfort, or first class.&nbsp;</p>
+<p>h)&nbsp;&nbsp;&nbsp; <strong>Select passengers</strong>: Before you purc=
+hase your flight completely, you need&nbsp;to add your passenger informatio=
+n on the Purchase your Flight page.&nbsp;&nbsp;</p>
+<p>i)&nbsp;&nbsp;&nbsp;&nbsp; <strong>Select seats</strong>: You will have =
+the ability to select each seat for each of the passengers flying and you c=
+an add more passengers here as well. You will also adjust your trip type he=
+re since your trip type depends on where you want to sit (for example. Firs=
+t class flyers sit upfront).&nbsp;</p>
+<p>j)&nbsp;&nbsp;&nbsp;<strong>&nbsp; Purchasing flight</strong>: You also =
+can add payment methods and passenger information and contact info. You can=
+ also add trip protection to protect your trip here. The ability to add gif=
+t cards and collect SkyMiles is all listed under this feature as well.&nbsp=
+;</p>
+<p>k)&nbsp;&nbsp;&nbsp;<strong> Payment methods</strong>: Verify that your =
+payment method works and is correct&nbsp;</p>
+<p>l)<strong>&nbsp;&nbsp;&nbsp;&nbsp; Usability testing.&nbsp;</strong></p>
+<hr>
+<p></p>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-Risk-Product">Risk- Product&nbsp;</h4>
+<ul>
+<li><p><strong>Test across the devices (Desktop, Smartphones, Tablets)&nbsp=
+;</strong></p></li>
+</ul>
+<p>Risks associated with testing different types of devices include users n=
+ot being able to access the same type of features as other users. Another r=
+isk includes not being able to access the biggest features of the Delta web=
+site because their UI configuration is all messed up and inaccessible due t=
+o different device-responsive reactions to the types of technologies being =
+implemented.&nbsp;</p>
+<ul>
+<li><p><strong>Test across different browsers</strong>&nbsp;</p></li>
+</ul>
+<p>The risk associated with different browsers is that the website can be d=
+isplayed differently so we need to make sure Delta is displayed the same ac=
+ross all platforms because some&nbsp;browsers react differently to code.&nb=
+sp;</p>
+<ul>
+<li><p><strong>Testing Delta flight management system.&nbsp;</strong>&nbsp;=
+</p></li>
+<li><p><strong>Search for flights.</strong></p></li>
+</ul>
+<p>The risk associated with searching for a flight&nbsp;includes users sele=
+cting the wrong types of airports when searching for a trip. For example, y=
+ou would think MPL is a Minneapolis airport, but really, MPL is an airport =
+in France. We must show users exactly the Airport abbreviation and the full=
+ city/state/country name under that, so users don=E2=80=99t get confused an=
+d book the wrong flight.&nbsp;</p>
+<ul>
+<li><p><strong>Search trip type.</strong></p></li>
+</ul>
+<p>The risk associated with trip type is that a user might think all trip t=
+ypes cost the same amount, so we must test and make sure a price is listed =
+under each trip type, so users know that each type costs a different price.=
+</p>
+<ul>
+<li><p><strong>Select passengers.</strong></p></li>
+</ul>
+<p><strong>&nbsp;</strong>The risk associated with selecting a passenger in=
+cludes dealing with passengers and how they will receive their refunds or c=
+ancellations. For example, someone booked a trip for 3 people and bought th=
+e trips for all of them. Now, 1 of the passengers wants to cancel their fli=
+ght. We need to make sure that the ticket only cancels for that 1 person, a=
+nd not everyone.&nbsp;</p>
+<ul>
+<li><p><strong>Select seats. </strong></p></li>
+</ul>
+<p>Risks associated with seat selection include users not being prompted th=
+at seat selection is mandatory, so users breeze by seat selection and total=
+ly forget about it. We need to show the users that they can choose their se=
+ats even though it's not required.&nbsp;</p>
+<ul>
+<li><p><strong>Select baggage </strong></p></li>
+</ul>
+<p>The risk associated with selecting baggage is selecting the incorrect nu=
+mber of bags you currently need.&nbsp;</p>
+<ul>
+<li><p><strong>Purchasing flight / Select payment methods </strong></p></li=
+>
+</ul>
+<p>The risk associated with payment methods is that our system must verify =
+each individual credit card before accepting its payment&nbsp;</p>
+<ul>
+<li><p><strong>Usability testing</strong>&nbsp;</p></li>
+</ul>
+<p>Usability testing is a way we can make risk float to the top easier beca=
+use we need the website to be efficient and effective as possible and usabi=
+lity testing will help us see what=E2=80=99s not working.&nbsp;</p>
+<hr>
+<p></p>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-TestMethodology/Approach">Test Methodol=
+ogy/ Approach</h4>
+<p>This section provides a high-level description of the testing approach f=
+or this effort.</p>
+<p>Unit testing, integration testing, negative testing, functional testing,=
+ regression testing, cross-browser testing, and user acceptance testing wer=
+e among the testing levels that were covered.&nbsp;</p>
+<p><strong>Tools for evaluation:</strong> Jira, Confluence, and Lucid chart=
+.&nbsp;</p>
+<p><strong>Techniques for evaluation</strong> - Data Flow Oriented.&nbsp;&n=
+bsp;</p>
+<p><strong>Methodology</strong>-Agile.&nbsp;</p>
+<p><strong>Methodologies employed</strong> - The QA and Development Team.&n=
+bsp;</p>
+<hr>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-EnvironmentNeeds:">Environment Needs:</=
+h4>
+<p><strong>&nbsp;Software needs:</strong> Jira, Oracle SQL Server, Java.&nb=
+sp;</p>
+<p>&nbsp;<strong>Hardware needs:</strong> Internet (High Speed), Monitor, K=
+eyboard, Mouse.&nbsp;</p>
+<hr>
+<h4 id=3D"MasterTestPlan|Team2,NAU.-Associatedteststrategies:">Associated t=
+est strategies:</h4>
+<p>We will be performing <strong>Black Box Testing</strong> since we won=E2=
+=80=99t have prior knowledge of the codebase. We will examine each requirem=
+ent and specification of the system. We will also perform <strong>System an=
+d Acceptance Testing </strong>where we will test the usability of each feat=
+ure. We will apply <strong>Acceptance Testing</strong> to the user before g=
+oing into production to make sure our flow is workable.&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_150_1783831116.1670178963963--
